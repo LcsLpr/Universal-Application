@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@expo/webpack-config": "^0.10.6",
-    "electron": "^6.0.12",
+    "electron": "^15.5.5",
     "expo": "~36.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
